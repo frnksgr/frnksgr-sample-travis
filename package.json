@@ -1,0 +1,19 @@
+{
+  "author": "frank seeger <frnksgr@gmail.com>",
+  "name": "frnksgr-sample-travis",
+  "description": "dump project",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frnksgr/frnksgr-sample-travis.git"
+  },
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+      "mocha": "*",
+      "should": "*"},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
